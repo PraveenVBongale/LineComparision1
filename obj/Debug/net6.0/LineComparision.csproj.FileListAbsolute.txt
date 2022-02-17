@@ -1,0 +1,15 @@
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\LineComparision.exe
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\LineComparision.deps.json
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\LineComparision.runtimeconfig.json
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\LineComparision.dll
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\ref\LineComparision.dll
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\bin\Debug\net6.0\LineComparision.pdb
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.csproj.AssemblyReference.cache
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.AssemblyInfoInputs.cache
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.AssemblyInfo.cs
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.csproj.CoreCompileInputs.cache
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.dll
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\ref\LineComparision.dll
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.pdb
+C:\Users\Guddu PC\Desktop\LineComparision\LineComparision\LineComparision\obj\Debug\net6.0\LineComparision.genruntimeconfig.cache
